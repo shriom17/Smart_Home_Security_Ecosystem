@@ -1,9 +1,37 @@
-# 🏠 Smart Home Security Ecosystem using IoT & VLAN Segmentation
+<div align="center">
 
-![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-v8.2+-00569B?style=for-the-badge&logo=cisco&logoColor=white)
-![Network Architecture](https://img.shields.io/badge/Architecture-Router--on--a--Stick-orange?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN%20Segmentation-Enabled-brightgreen?style=for-the-badge)
-![Status](https://img.shields.io/badge/Project%20Status-Completed-success?style=for-the-badge)
+# 🏠 Smart Home Security Ecosystem
+### *Intelligent IoT Automation with VLAN Segmentation & Real-Time Defense Pipeline*
+
+[![Cisco Packet Tracer](https://img.shields.io/badge/Simulator-Cisco%20Packet%20Tracer%20v8.2+-00569B?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/)
+[![Network Architecture](https://img.shields.io/badge/Architecture-Router--on--a--Stick-FF6F00?style=for-the-badge&logo=diagrams.net&logoColor=white)]()
+[![VLAN Segmentation](https://img.shields.io/badge/VLAN%20Security-IEEE%20802.1Q-008080?style=for-the-badge&logo=wireguard&logoColor=white)]()
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
+
+<p align="center">
+  <a href="#-about-the-project">About</a> •
+  <a href="#-system-architecture">Architecture</a> •
+  <a href="#-key-features">Key Features</a> •
+  <a href="#-conditonal-automation-logic">Automation Rules</a> •
+  <a href="#-network-configuration">Configurations</a> •
+  <a href="#-verification--testing">Testing</a>
+</p>
+
+---
+
+</div>
+
+## 📖 About The Project
+
+Modern smart home ecosystems face high vulnerability risks when unencrypted IoT peripherals coexist on the same local network as primary workstations. 
+
+This project implements an **Enterprise-Grade Smart Home Security Ecosystem** inside **Cisco Packet Tracer**. By leveraging **VLAN Segmentation (IEEE 802.1Q)** and a **Router-on-a-Stick** design, IoT traffic is isolated into a dedicated security zone while granting secure cross-VLAN management privileges to authenticated end-user devices.
+
+> ⚡ **Highlights:** Autonomous threat detection, dynamic peripheral locking, instantaneous camera streaming, and automated SMTP email alerting.
+
+---
+
+
 
 An intelligent, enterprise-grade **Smart Home Security System** designed and simulated using **Cisco Packet Tracer**. The project demonstrates the seamless integration of IoT network automation, real-time threat detection, conditional logic execution, and strict network isolation using **VLAN Segmentation** and **Inter-VLAN Routing (Router-on-a-Stick)**.
 
